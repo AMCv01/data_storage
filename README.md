@@ -1,5 +1,7 @@
 # Data Storage and Retrieval
 
+`git clone git@github.com:AMCv01/data_storage.git`
+
 ## How to connect?
 
 - navigate to `data_storage`
